@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "C:\\Users\\Lenovo\\AppData\\Local\\Coursier\\data\\bin\\.scala-cli.aux.exe",
+    "bsp",
+    "--json-options",
+    "E:\\Scala_Training\\code\\.scala-build\\ide-options-v2.json",
+    "--json-launcher-options",
+    "E:\\Scala_Training\\code\\.scala-build\\ide-launcher-options.json",
+    "--envs-file",
+    "E:\\Scala_Training\\code\\.scala-build\\ide-envs.json",
+    "E:\\Scala_Training\\code"
+  ],
+  "version": "1.10.0",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
