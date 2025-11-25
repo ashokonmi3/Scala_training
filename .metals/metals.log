@@ -3714,3 +3714,7 @@ WARNING: Unmatched cancel notification for request id 3
 2025.11.25 20:15:40 INFO  time: Imported build in 0.36s
 2025.11.25 20:15:51 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
 2025.11.25 20:15:52 INFO  time: indexed workspace in 11s
+Nov 25, 2025 8:22:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 25, 2025 8:22:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
