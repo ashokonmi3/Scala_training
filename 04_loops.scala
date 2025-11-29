@@ -1,7 +1,10 @@
 // ModuleLoopsSimple.scala
 // PURE LOOP EXAMPLES — NO class, NO case class, NO functions.
 // Beginner-friendly.
-
+// inital counter 
+//condition 
+// body of the loop
+// increment/decrement
 // ---------------------------------------------
 // 1) Basic for loop (1 to 5)
 // ---------------------------------------------
@@ -22,6 +25,7 @@
 @main def loop_byStep(): Unit =
   for i <- 0 to 10 by 2 do
     println(s"step = $i")
+
 
 // ---------------------------------------------
 // 4) Reverse loop
@@ -123,7 +127,7 @@
   var i = 1
   while i <= 5 do
     println(s"i = $i")
-    i += 1
+    i += 1 // i = i+1
 
 // ---------------------------------------------
 // 16) Simulate do-while (Scala removed do-while)
@@ -138,7 +142,7 @@
     continue = n <= 5
 
 // ---------------------------------------------
-// 17) Break out of loop
+// 17) Break out of loop- till here
 // ---------------------------------------------
 @main def loop_break(): Unit =
   import scala.util.control.Breaks.{break, breakable}
@@ -166,7 +170,11 @@
 @main def loop_sum(): Unit =
   var sum = 0
   for i <- 1 to 100 do
-    sum += i
+    sum += i  // sum= 0+1 =1 , sum= 1+2 =3,  i=3 sum = 3+3 = 6 , i = 4 sum = 6+4 = 10
+    println(s"i = $i") //1
+
+    println(s"Sum = $sum") //1
+
   println(s"Sum = $sum")
 
 // ---------------------------------------------

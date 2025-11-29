@@ -3718,3 +3718,284 @@ Nov 25, 2025 8:22:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notif
 INFO: Unsupported notification method: $/setTrace
 Nov 25, 2025 8:22:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2025.11.25 20:24:32 INFO  Shutting down server
+2025.11.25 20:24:32 INFO  shutting down Metals
+2025.11.25 20:24:32 INFO  Shut down connection with build server.
+2025.11.25 20:24:34 INFO  Exiting server
+2025.11.27 09:05:47 INFO  Started: Metals version 1.6.4 in folders 'E:\Scala_Training\code' for client Visual Studio Code 1.106.2.
+2025.11.27 09:05:50 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.27 09:05:50 INFO  no build target found for E:\Scala_Training\code\03_controlstructure.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Nov 27, 2025 9:06:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2025.11.27 09:06:01 INFO  no build target found for E:\Scala_Training\code\03_controlstructure.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.27 09:06:01 INFO  Attempting to connect to the build server...
+2025.11.27 09:06:01 INFO  Running BSP server List(C:\Users\Lenovo\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, E:\Scala_Training\code\.scala-build\ide-options-v2.json, --json-launcher-options, E:\Scala_Training\code\.scala-build\ide-launcher-options.json, --envs-file, E:\Scala_Training\code\.scala-build\ide-envs.json, E:\Scala_Training\code)
+2025.11.27 09:06:02 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at E:\Scala_Training\code\.metals\bsp.trace.json or C:\Users\Lenovo\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.11.27 09:06:09 INFO  BSP server: Starting compilation server
+2025.11.27 09:06:27 INFO  time: Connected to build server in 25s
+2025.11.27 09:06:27 INFO  Connected to Build server: scala-cli v1.10.0
+2025.11.27 09:06:27 INFO  time: Imported build in 0.31s
+2025.11.27 09:06:37 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.27 09:06:38 INFO  time: indexed workspace in 10s
+2025.11.27 09:13:41 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.27 09:13:55 INFO  time: compiled code_055fd090c9 in 14s
+Nov 27, 2025 9:14:29 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.27 09:15:22 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.27 09:15:25 INFO  time: compiled code_055fd090c9 in 3.16s
+Nov 27, 2025 9:16:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 463
+Nov 27, 2025 9:16:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 479
+Nov 27, 2025 9:16:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 476
+Nov 27, 2025 9:16:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 483
+Nov 27, 2025 9:16:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 482
+Nov 27, 2025 9:17:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 592
+Nov 27, 2025 9:17:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 610
+Nov 27, 2025 9:19:08 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.27 09:19:11 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.27 09:19:18 INFO  time: compiled code_055fd090c9 in 7.59s
+2025.11.27 09:19:21 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.27 09:19:26 INFO  time: compiled code_055fd090c9 in 4.72s
+Nov 27, 2025 9:19:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 711
+Nov 27, 2025 9:20:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 27, 2025 9:21:15 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.27 09:21:16 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.27 09:21:19 INFO  time: compiled code_055fd090c9 in 3.16s
+Nov 27, 2025 9:22:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 27, 2025 9:24:31 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 27, 2025 9:25:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 27, 2025 9:26:39 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 27, 2025 9:30:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.28 10:32:40 INFO  time: code lens generation in 1.8s
+2025.11.28 10:32:41 INFO  Shutting down server
+2025.11.28 10:32:41 INFO  shutting down Metals
+2025.11.28 10:32:40 INFO  Shut down connection with build server.
+2025.11.28 10:32:41 INFO  Exiting server
+2025.11.29 09:21:37 INFO  Started: Metals version 1.6.4 in folders 'E:\Scala_Training\code' for client Visual Studio Code 1.106.3.
+2025.11.29 09:21:39 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.29 09:21:39 INFO  no build target found for E:\Scala_Training\code\04_loops.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.29 09:21:46 INFO  no build target found for E:\Scala_Training\code\04_loops.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.29 09:21:46 INFO  Attempting to connect to the build server...
+2025.11.29 09:21:46 INFO  Running BSP server List(C:\Users\Lenovo\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, E:\Scala_Training\code\.scala-build\ide-options-v2.json, --json-launcher-options, E:\Scala_Training\code\.scala-build\ide-launcher-options.json, --envs-file, E:\Scala_Training\code\.scala-build\ide-envs.json, E:\Scala_Training\code)
+2025.11.29 09:21:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at E:\Scala_Training\code\.metals\bsp.trace.json or C:\Users\Lenovo\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.11.29 09:21:47 INFO  no build target found for E:\Scala_Training\code\04_loops.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.29 09:21:47 INFO  no build target found for E:\Scala_Training\code\04_loops.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.29 09:21:49 INFO  no build target found for E:\Scala_Training\code\04_loops.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.29 09:21:49 INFO  no build target found for E:\Scala_Training\code\04_loops.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.29 09:21:52 INFO  no build target found for E:\Scala_Training\code\04_loops.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.29 09:21:54 INFO  no build target found for E:\Scala_Training\code\04_loops.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.29 09:21:57 INFO  time: Connected to build server in 11s
+2025.11.29 09:21:57 INFO  Connected to Build server: scala-cli v1.10.0
+2025.11.29 09:21:57 INFO  time: Imported build in 0.54s
+2025.11.29 09:22:01 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.29 09:22:10 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.29 09:22:13 INFO  time: indexed workspace in 14s
+2025.11.29 09:22:17 INFO  time: compiled code_055fd090c9 in 16s
+Nov 29, 2025 9:37:18 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 29, 2025 9:38:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 29, 2025 9:39:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 29, 2025 9:40:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 211
+2025.11.29 09:40:35 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.29 09:40:43 INFO  time: compiled code_055fd090c9 in 8.47s
+2025.11.29 09:41:19 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.29 09:41:23 INFO  time: compiled code_055fd090c9 in 4.53s
+Nov 29, 2025 9:43:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 396
+Nov 29, 2025 9:43:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 499
+Nov 29, 2025 9:54:59 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.29 09:55:02 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.29 09:55:19 INFO  time: compiled code_055fd090c9 in 16s
+2025.11.29 09:55:25 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.29 09:55:35 INFO  time: compiled code_055fd090c9 in 10s
+Nov 29, 2025 9:55:51 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 29, 2025 9:57:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.29 09:57:22 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.29 09:57:40 INFO  time: compiled code_055fd090c9 in 17s
+Nov 29, 2025 9:58:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.29 09:59:34 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.29 09:59:44 INFO  time: compiled code_055fd090c9 in 10s
+2025.11.29 09:59:47 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.29 09:59:51 INFO  time: compiled code_055fd090c9 in 4.61s
+Nov 29, 2025 10:01:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1659
+2025.11.29 10:01:04 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.29 10:01:23 INFO  time: compiled code_055fd090c9 in 19s
+Nov 29, 2025 10:01:26 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 29, 2025 10:02:13 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 29, 2025 10:04:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1795
+Nov 29, 2025 10:06:43 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.29 10:06:45 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.29 10:06:49 INFO  time: compiled code_055fd090c9 in 4.17s
+Nov 29, 2025 10:08:10 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 29, 2025 10:11:26 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.29 10:11:28 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.29 10:11:33 INFO  time: compiled code_055fd090c9 in 4.4s
+2025.11.29 10:12:46 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.29 10:12:49 INFO  time: compiled code_055fd090c9 in 2.75s
+Nov 29, 2025 10:19:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2518
+Nov 29, 2025 10:19:07 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.29 10:19:09 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.29 10:19:13 INFO  time: compiled code_055fd090c9 in 4.07s
+Nov 29, 2025 10:20:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2564
+Nov 29, 2025 10:21:03 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.29 10:24:04 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.29 10:24:06 INFO  time: compiled code_055fd090c9 in 2.39s
+Nov 29, 2025 10:26:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.29 10:26:02 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.29 10:26:04 INFO  time: compiled code_055fd090c9 in 1.54s
+Nov 29, 2025 10:26:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 29, 2025 10:29:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 29, 2025 10:30:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2910
+Nov 29, 2025 10:30:38 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 29, 2025 10:31:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 29, 2025 10:32:24 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 29, 2025 10:32:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 29, 2025 10:33:48 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 29, 2025 10:34:34 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 29, 2025 10:35:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.11.29 11:30:49 INFO  Shutting down server
+2025.11.29 11:30:49 INFO  shutting down Metals
+2025.11.29 11:30:49 INFO  Shut down connection with build server.
+2025.11.29 18:52:34 INFO  Started: Metals version 1.6.4 in folders 'E:\Scala_Training\code' for client Visual Studio Code 1.106.3.
+2025.11.29 18:52:39 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.29 18:52:39 INFO  no build target found for E:\Scala_Training\code\05_function.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.29 18:52:44 INFO  no build target found for E:\Scala_Training\code\05_function.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.29 18:52:44 INFO  no build target found for E:\Scala_Training\code\05_function.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.29 18:52:44 INFO  no build target found for E:\Scala_Training\code\05_function.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.29 18:52:44 INFO  no build target found for E:\Scala_Training\code\05_function.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Nov 29, 2025 6:52:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2025.11.29 18:52:44 INFO  no build target found for E:\Scala_Training\code\05_function.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.29 18:52:44 INFO  no build target found for E:\Scala_Training\code\05_function.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Nov 29, 2025 6:52:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+2025.11.29 18:52:44 INFO  no build target found for E:\Scala_Training\code\05_function.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.29 18:52:44 INFO  Attempting to connect to the build server...
+Nov 29, 2025 6:52:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+Nov 29, 2025 6:52:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+2025.11.29 18:52:44 INFO  Running BSP server List(C:\Users\Lenovo\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, E:\Scala_Training\code\.scala-build\ide-options-v2.json, --json-launcher-options, E:\Scala_Training\code\.scala-build\ide-launcher-options.json, --envs-file, E:\Scala_Training\code\.scala-build\ide-envs.json, E:\Scala_Training\code)
+2025.11.29 18:52:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at E:\Scala_Training\code\.metals\bsp.trace.json or C:\Users\Lenovo\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.11.29 18:52:45 INFO  no build target found for E:\Scala_Training\code\05_function.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.29 18:52:48 INFO  no build target found for E:\Scala_Training\code\05_function.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.29 18:52:49 INFO  no build target found for E:\Scala_Training\code\05_function.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.29 18:52:49 INFO  no build target found for E:\Scala_Training\code\05_function.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.29 18:52:49 INFO  no build target found for E:\Scala_Training\code\05_function.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.29 18:52:51 INFO  time: Connected to build server in 6.45s
+2025.11.29 18:52:51 INFO  Connected to Build server: scala-cli v1.10.0
+2025.11.29 18:52:52 INFO  time: Imported build in 1.17s
+2025.11.29 18:53:06 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.29 18:53:06 INFO  time: indexed workspace in 15s
+2025.11.29 19:00:05 INFO  no build target found for E:\Scala_Training\code\06_String.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.29 19:00:06 INFO  no build target found for E:\Scala_Training\code\06_String.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.29 19:00:06 WARN  no build target for: E:\Scala_Training\code\06_String.scala
+2025.11.29 19:00:05 WARN  Could not find semantic tokens for: file:///E:/Scala_Training/code/06_String.scala
+2025.11.29 19:00:06 INFO  time: Imported build in 0.14s
+2025.11.29 19:00:06 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.29 19:00:07 WARN  Could not find semantic tokens for: file:///E:/Scala_Training/code/06_String.scala
+2025.11.29 19:00:12 INFO  time: compiled code_055fd090c9 in 5.95s
+2025.11.29 19:00:16 INFO  time: indexed workspace in 9.48s
+Nov 29, 2025 7:06:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 409
+Nov 29, 2025 7:06:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 410
+2025.11.29 19:06:05 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.29 19:06:07 INFO  time: compiled code_055fd090c9 in 2.03s
+2025.11.29 19:18:51 INFO  no build target found for E:\Scala_Training\code\07_list.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.29 19:18:51 WARN  no build target for: E:\Scala_Training\code\07_list.scala
+2025.11.29 19:18:52 WARN  Could not find semantic tokens for: file:///E:/Scala_Training/code/07_list.scala
+2025.11.29 19:18:52 INFO  compiling code_055fd090c9 (2 scala sources)
+2025.11.29 19:18:53 WARN  Could not find semantic tokens for: file:///E:/Scala_Training/code/07_list.scala
+2025.11.29 19:18:53 INFO  time: compiled code_055fd090c9 in 1.52s
+2025.11.29 19:18:56 INFO  compiling code_055fd090c9 (2 scala sources)
+2025.11.29 19:18:58 INFO  time: compiled code_055fd090c9 in 1.99s
+2025.11.29 19:18:58 INFO  time: indexed workspace in 6.65s
+2025.11.29 19:18:59 INFO  compiling code_055fd090c9 (2 scala sources)
+2025.11.29 19:18:59 INFO  time: compiled code_055fd090c9 in 0.82s
+2025.11.29 19:23:29 INFO  compiling code_055fd090c9 (2 scala sources)
+2025.11.29 19:23:30 INFO  time: compiled code_055fd090c9 in 1.36s
+2025.11.29 19:41:47 INFO  no build target found for E:\Scala_Training\code\08_array.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.29 19:41:47 WARN  no build target for: E:\Scala_Training\code\08_array.scala
+2025.11.29 19:41:47 WARN  Could not find semantic tokens for: file:///E:/Scala_Training/code/08_array.scala
+2025.11.29 19:41:48 WARN  Could not find semantic tokens for: file:///E:/Scala_Training/code/08_array.scala
+2025.11.29 19:41:48 INFO  time: Imported build in 0.1s
+2025.11.29 19:41:48 INFO  compiling code_055fd090c9 (3 scala sources)
+2025.11.29 19:41:49 WARN  Could not find semantic tokens for: file:///E:/Scala_Training/code/08_array.scala
+2025.11.29 19:41:51 INFO  time: compiled code_055fd090c9 in 2.24s
+2025.11.29 19:41:51 INFO  compiling code_055fd090c9 (3 scala sources)
+2025.11.29 19:41:52 INFO  time: compiled code_055fd090c9 in 0.75s
+2025.11.29 19:41:54 INFO  time: indexed workspace in 6.18s
+2025.11.29 19:41:55 INFO  compiling code_055fd090c9 (3 scala sources)
+2025.11.29 19:41:55 INFO  time: compiled code_055fd090c9 in 0.52s
+2025.11.29 19:41:55 WARN  Could not find semantic tokens for: file:///E:/Scala_Training/code/08_array.scala
+2025.11.29 20:31:40 INFO  no build target found for E:\Scala_Training\code\09_set.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.29 20:31:40 INFO  no build target found for E:\Scala_Training\code\09_set.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.29 20:31:40 WARN  no build target for: E:\Scala_Training\code\09_set.scala
+2025.11.29 20:31:40 WARN  Could not find semantic tokens for: file:///E:/Scala_Training/code/09_set.scala
+2025.11.29 20:31:41 INFO  compiling code_055fd090c9 (4 scala sources)
+2025.11.29 20:31:43 INFO  time: compiled code_055fd090c9 in 1.55s
+2025.11.29 20:31:46 INFO  compiling code_055fd090c9 (4 scala sources)
+2025.11.29 20:31:47 INFO  time: compiled code_055fd090c9 in 1.16s
+2025.11.29 20:31:50 INFO  time: indexed workspace in 9.13s
+2025.11.29 20:31:51 INFO  compiling code_055fd090c9 (4 scala sources)
+2025.11.29 20:31:51 INFO  time: compiled code_055fd090c9 in 0.57s
+2025.11.29 20:37:43 INFO  compiling code_055fd090c9 (4 scala sources)
+2025.11.29 20:37:53 INFO  time: compiled code_055fd090c9 in 10s
+2025.11.29 20:41:48 INFO  no build target found for E:\Scala_Training\code\10_map.scala. Using presentation compiler with project's scala-library version: 3.7.4
+2025.11.29 20:41:48 WARN  no build target for: E:\Scala_Training\code\10_map.scala
+2025.11.29 20:41:48 WARN  Could not find semantic tokens for: file:///E:/Scala_Training/code/10_map.scala
+2025.11.29 20:41:48 WARN  Could not find semantic tokens for: file:///E:/Scala_Training/code/10_map.scala
+2025.11.29 20:41:49 INFO  compiling code_055fd090c9 (1 scala source)
+2025.11.29 20:41:49 INFO  time: compiled code_055fd090c9 in 0.91s
+2025.11.29 20:41:52 INFO  time: indexed workspace in 3.69s
+2025.11.29 20:41:53 WARN  Could not find semantic tokens for: file:///E:/Scala_Training/code/10_map.scala
+Nov 29, 2025 8:46:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1036
+Nov 29, 2025 9:01:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace

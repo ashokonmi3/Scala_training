@@ -11,6 +11,7 @@
 
   // Call the function
   greet()
+  println("Hello! This is a after greeting.")
 
 @main def fn_noParams_example2(): Unit =
   // Another no-arg function that prints current lesson title
@@ -28,6 +29,8 @@
     println(s"Welcome, $name!")
 
   welcome("Ashok")
+  welcome("Alekya")
+
 
 @main def fn_oneParam_example2(): Unit =
   // Function that accepts an integer and prints whether it's positive
@@ -37,6 +40,8 @@
     else println("Zero")
 
   printSign(5)
+  // printSign("5")
+
   printSign(-3)
   printSign(0)
 
@@ -63,7 +68,7 @@
 @main def fn_returnInt_example1(): Unit =
   // Multiply two numbers and return result
   def multiply(x: Int, y: Int): Int =
-    x * y  // last expression is returned implicitly
+    x * y  // last expression is returned implicitly return x*y
 
   val m = multiply(6, 7)
   println(s"6 * 7 = $m")
@@ -80,10 +85,12 @@
 @main def fn_returnString_example1(): Unit =
   // Build a greeting message and return it
   def buildGreeting(name: String): String =
-    s"Hi, $name! Have a great day."
+    s"Hi, $name! Have a great day." //return
 
   val msg = buildGreeting("Student")
   println(msg)
+  val msg1 = buildGreeting("Trainer")
+  println(msg1)
 
 @main def fn_returnString_example2(): Unit =
   // Convert a name to uppercase and return
@@ -98,7 +105,8 @@
 @main def fn_returnBoolean_example1(): Unit =
   // Check evenness
   def isEven(n: Int): Boolean =
-    n % 2 == 0
+    n % 2 == 0 //true
+    // n/2 -> 5
 
   println(s"isEven(10) = ${isEven(10)}")
   println(s"isEven(7) = ${isEven(7)}")
@@ -135,7 +143,8 @@
 // -----------------------------
 @main def fn_calling_example1(): Unit =
   // Small helper functions
-  def add(a: Int, b: Int): Int = a + b
+  def add(a: Int, b: Int): Int = 
+    a + b
   def double(n: Int): Int = n * 2
 
   // Use one function's result in another

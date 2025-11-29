@@ -132,23 +132,23 @@
 // // -----------------------------
 // // 11) Practical example: discount calculation
 // // -----------------------------
-// @main def if_practicalDiscount(): Unit =
-//   val price = 1200.0
-//   val customerType = "gold" // silver/gold/regular
+@main def if_practicalDiscount(): Unit =
+  val price = 1200.0
+  val customerType = "gold" // silver/gold/regular
 
-//   val finalPrice =
-//     if customerType == "gold" then price * 0.8
-//     else if customerType == "silver" then price * 0.9
-//     else price
+  val finalPrice =
+    if customerType == "gold" then price * 0.8
+    else if customerType == "silver" then price * 0.9
+    else price
 
-//   println(f"Final price for $customerType = ₹$finalPrice%.2f")
+  println(f"Final price for $customerType = $finalPrice%.2f")
 
 // // -----------------------------
 // // 12) Exercises prompt for students
 // // -----------------------------
-// @main def if_exercises(): Unit =
-//   println("If/Else Exercises:")
-//   println("1) Write a program (copy/paste) to check whether a given number is even or odd.")
-//   println("2) Check if a year is a leap year (basic rule: divisible by 4).")
-//   println("3) Given three numbers (a,b,c) using only if/else print the maximum.")
-//   println("4) Given temperature value, print Cold/Moderate/Hot thresholds.")
+@main def if_exercises(): Unit =
+  println("If/Else Exercises:")
+  println("1) Write a program (copy/paste) to check whether a given number is even or odd.")
+  println("2) Check if a year is a leap year (basic rule: divisible by 4).")
+  println("3) Given three numbers (a,b,c) using only if/else print the maximum.")
+  println("4) Given temperature value, print Cold/Moderate/Hot thresholds.")
