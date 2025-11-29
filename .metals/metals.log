@@ -4000,3 +4000,4 @@ WARNING: Unmatched cancel notification for request id 1036
 Nov 29, 2025 9:01:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
 2025.11.29 21:01:54 INFO  compiling code_055fd090c9 (4 scala sources)
+2025.11.29 21:02:20 INFO  time: compiled code_055fd090c9 in 26s
