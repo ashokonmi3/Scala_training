@@ -4250,3 +4250,95 @@ INFO: Unsupported notification method: $/setTrace
 2025.12.06 12:07:54 INFO  shutting down Metals
 2025.12.06 12:07:55 INFO  Shut down connection with build server.
 2025.12.06 12:07:54 INFO  Exiting server
+2025.12.06 21:56:47 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at e:\Scala_Training\code\.metals\lsp.trace.json or C:\Users\Lenovo\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2025.12.06 21:56:53 INFO  logging to files E:\Scala_Training\code\.metals\metals.log
+2025.12.06 21:56:53 INFO  Started: Metals version 1.6.4 in folders 'E:\Scala_Training\code' for client Visual Studio Code 1.106.3.
+2025.12.06 21:56:57 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.12.06 21:56:57 INFO  no build target found for E:\Scala_Training\code\08_array.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.06 21:56:58 INFO  Attempting to connect to the build server...
+2025.12.06 21:56:58 INFO  Running BSP server List(C:\Users\Lenovo\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, E:\Scala_Training\code\.scala-build\ide-options-v2.json, --json-launcher-options, E:\Scala_Training\code\.scala-build\ide-launcher-options.json, --envs-file, E:\Scala_Training\code\.scala-build\ide-envs.json, E:\Scala_Training\code)
+2025.12.06 21:56:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at E:\Scala_Training\code\.metals\bsp.trace.json or C:\Users\Lenovo\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.12.06 21:57:08 INFO  time: Connected to build server in 9.27s
+2025.12.06 21:57:08 INFO  Connected to Build server: scala-cli v1.10.0
+2025.12.06 21:57:09 INFO  time: Imported build in 1.22s
+2025.12.06 21:57:34 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.12.06 21:57:36 INFO  time: indexed workspace in 19s
+2025.12.06 21:57:55 WARN  Could not find semantic tokens for: file:///E:/Scala_Training/code/08_array.scala
+2025.12.06 21:57:57 WARN  Could not find semantic tokens for: file:///E:/Scala_Training/code/08_array.scala
+Dec 06, 2025 10:01:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 210
+2025.12.06 22:06:03 INFO  compiling code_055fd090c9 (1 scala source)
+2025.12.06 22:06:22 INFO  time: compiled code_055fd090c9 in 19s
+2025.12.06 22:07:07 INFO  compiling code_055fd090c9 (1 scala source)
+Dec 06, 2025 10:07:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 361
+2025.12.06 22:07:26 INFO  time: compiled code_055fd090c9 in 19s
+Dec 06, 2025 10:07:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.12.06 22:07:40 WARN  Could not load snapshot text for E:\Scala_Training\code\08_array.scala
+2025.12.06 22:07:41 INFO  compiling code_055fd090c9 (1 scala source)
+2025.12.06 22:07:51 INFO  time: compiled code_055fd090c9 in 9.79s
+Dec 06, 2025 10:09:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.12.06 22:12:17 INFO  compiling code_055fd090c9 (1 scala source)
+2025.12.06 22:12:33 INFO  time: compiled code_055fd090c9 in 16s
+Dec 06, 2025 10:12:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 545
+Dec 06, 2025 10:12:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 558
+Dec 06, 2025 10:15:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.12.06 22:15:13 INFO  compiling code_055fd090c9 (1 scala source)
+2025.12.06 22:15:25 INFO  time: compiled code_055fd090c9 in 11s
+Dec 06, 2025 10:17:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 06, 2025 10:19:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1020
+2025.12.06 22:20:20 INFO  compiling code_055fd090c9 (1 scala source)
+2025.12.06 22:20:24 INFO  time: compiled code_055fd090c9 in 4.3s
+Dec 06, 2025 10:20:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.12.06 22:21:28 INFO  compiling code_055fd090c9 (1 scala source)
+2025.12.06 22:21:33 INFO  time: compiled code_055fd090c9 in 4.98s
+Dec 06, 2025 10:22:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.12.06 22:22:34 INFO  compiling code_055fd090c9 (1 scala source)
+2025.12.06 22:22:37 INFO  time: compiled code_055fd090c9 in 2.88s
+Dec 06, 2025 10:22:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1279
+Dec 06, 2025 10:23:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.12.06 22:23:55 INFO  compiling code_055fd090c9 (1 scala source)
+2025.12.06 22:23:58 INFO  time: compiled code_055fd090c9 in 2.98s
+Dec 06, 2025 10:25:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 06, 2025 10:26:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 06, 2025 10:28:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1530
+2025.12.06 22:30:21 INFO  compiling code_055fd090c9 (1 scala source)
+2025.12.06 22:30:26 INFO  time: compiled code_055fd090c9 in 4.58s
+2025.12.06 22:30:27 WARN  Could not load snapshot text for E:\Scala_Training\code\08_array.scala
+2025.12.06 22:30:29 INFO  compiling code_055fd090c9 (1 scala source)
+2025.12.06 22:30:33 INFO  time: compiled code_055fd090c9 in 3.81s
+Dec 06, 2025 10:31:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1784
+Dec 06, 2025 10:32:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1793
+Dec 06, 2025 10:34:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1824
+Dec 06, 2025 10:35:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.12.06 22:35:24 INFO  compiling code_055fd090c9 (1 scala source)
+Dec 06, 2025 10:35:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1897
+2025.12.06 22:35:29 INFO  time: compiled code_055fd090c9 in 4.63s
+Dec 06, 2025 10:36:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 06, 2025 10:36:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1956
+Dec 06, 2025 10:38:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.12.06 22:38:15 INFO  time: code lens generation in 1.66s
+Dec 06, 2025 10:39:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
