@@ -1,6 +1,6 @@
 // =====================================================================
 // Filename: 08_list.scala
-// Topic: Scala List & ListBuffer (Beginner Friendly)
+// Topic: Scala List & ListBuffer 
 // =====================================================================
 //
 // ✔ What is a List?
@@ -53,10 +53,13 @@
 @main def list_access(): Unit =
   val fruits = List("apple", "banana", "mango", "orange")
 
+// Index :  0       1         2        3
+// Fruit : apple   banana   mango   orange
+
   // Indexing starts at 0
   println(s"First element  = ${fruits(0)}")
   println(s"Second element = ${fruits(1)}")
-  println(s"Last element   = ${fruits(fruits.length - 1)}")
+  println(s"Last element   = ${fruits(fruits.length - 1)}") //4-1 fruits(3)
 
   // Safer way: using head and last
   println(s"Head = ${fruits.head}")
@@ -165,7 +168,8 @@
   val product = nums.reduce((a, b) => a * b)
   println(s"Product = $product")
 
-
+  val sum = nums.reduce((a, b) => a + b )
+  println(s"Sum = $sum")
 
 /********************************
  * 9) Sorting and Reversing
@@ -186,7 +190,7 @@
  * 10) Working with List of Strings
  ********************************/
 @main def list_strings_example(): Unit =
-  val names = List("Ashok", "Meena", "Ravi", "Anita")
+  val names = List("Ashok sharma", "Meena", "Ravi", "Anita")
 
   // Find names starting with 'A'
   val startsWithA = names.filter(n => n.startsWith("A"))
@@ -207,12 +211,18 @@
 //      Useful in tables, matrices, etc.
 //      We'll keep it very simple for beginners.
 // ********************************/
+
 @main def list_of_list(): Unit =
   val matrix = List(
     List(1, 2, 3),
     List(4, 5, 6),
     List(7, 8, 9)
   )
+  
+    
+  val row1= List(1, 2, 3)
+  println(row1.mkString("*"))
+  
 
   println("Matrix elements:")
   for row <- matrix do
@@ -246,6 +256,7 @@ import scala.collection.mutable.ListBuffer
   lb += 10          // add single element
   lb += 20
   lb += 30
+  println(s"ListBuffer contents = $lb")
 
   // Add multiple at once
   lb ++= List(40, 50)
@@ -256,6 +267,8 @@ import scala.collection.mutable.ListBuffer
   lb -= 20
   println(s"After removing 20    = $lb")
 
+  val lb1= lb.map(x=>x*2)
+  println(s"After map     = $lb1")
 
 
 /********************************

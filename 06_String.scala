@@ -44,7 +44,9 @@
 // ---------------------------------------------------------------------
 @main def str_escape(): Unit =
   println("Line1\nLine2")       // new line
-  println("A\tB")               // tab space
+  println("A\tB")  
+  println("A\\tB")               // tab space
+               // tab space
   println("He said \"Scala\"")  // double quote inside string
   println("Path: C:\\files")    // backslash
 
@@ -96,6 +98,7 @@
   println(s"First char = ${s(0)}")         // character at index 0
   println(s"Substring = ${s.substring(0, 5)}") // from index 0 to 4
   println("Concatenation = " + s + " Language") // join strings
+  println(s"Concatenation =  ${s} Language") // join strings
 
 
 // ---------------------------------------------------------------------
@@ -120,9 +123,15 @@
 // ---------------------------------------------------------------------
 @main def str_split_join(): Unit =
   val csv = "apple,banana,mango"
-  val arr = csv.split(",")
-  println(arr.mkString(" | "))   // join with separator
 
+  val arr = csv.split(",")
+  
+  // println(arr)   // join with separator
+  println(arr.mkString(""))   // join with separator
+  println(arr.mkString(" "))   // join with separator
+
+  println(arr.mkString(" | "))   // join with separator
+// till here 
   val sentence = "Scala is easy to learn"
   val words = sentence.split("\\s+") // split by spaces
   println(s"Word count = ${words.length}")
@@ -191,7 +200,8 @@
 // 11) Safe Substring (prevents errors)
 // ---------------------------------------------------------------------
 @main def str_safe_substring(): Unit =
-  val s = "Hello"
+  val s = "Hello" //hello jello aello
+  // s[0]= "h"
   val end = math.min(100, s.length)
   println(s.substring(0, end))
 
@@ -202,7 +212,9 @@
 @main def str_conversion(): Unit =
   val n = "123".toInt
   val d = "12.5".toDouble
-//   println(n, d, n.toString)
+  println(n)
+  println(d)
+  // println(n, d, n.toString)
   println("true".toBoolean)
 
 

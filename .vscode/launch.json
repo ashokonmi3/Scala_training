@@ -330,6 +330,446 @@
       "args": [],
       "jvmOptions": [],
       "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "str_basic",
+      "mainClass": "str_basic",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "str_escape",
+      "mainClass": "str_escape",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "str_multiline",
+      "mainClass": "str_multiline",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "str_stripMargin",
+      "mainClass": "str_stripMargin",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "str_interpolation",
+      "mainClass": "str_interpolation",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "str_operations",
+      "mainClass": "str_operations",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "str_clean_search",
+      "mainClass": "str_clean_search",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "str_split_join",
+      "mainClass": "str_split_join",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "str_replace",
+      "mainClass": "str_replace",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "str_loop_reverse_palindrome",
+      "mainClass": "str_loop_reverse_palindrome",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "str_loop_index",
+      "mainClass": "str_loop_index",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "str_loop_case_count",
+      "mainClass": "str_loop_case_count",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "str_loop_words",
+      "mainClass": "str_loop_words",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "str_vowel_count",
+      "mainClass": "str_vowel_count",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "str_conversion",
+      "mainClass": "str_conversion",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "str_stringBuilder",
+      "mainClass": "str_stringBuilder",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "str_builder_vs_string",
+      "mainClass": "str_builder_vs_string",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "list_create",
+      "mainClass": "list_create",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "list_access",
+      "mainClass": "list_access",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "list_properties",
+      "mainClass": "list_properties",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "list_loop_basic",
+      "mainClass": "list_loop_basic",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "list_add_elements",
+      "mainClass": "list_add_elements",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "list_map_example",
+      "mainClass": "list_map_example",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "list_filter_example",
+      "mainClass": "list_filter_example",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "list_reduce_sum_min_max",
+      "mainClass": "list_reduce_sum_min_max",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "list_sort_reverse",
+      "mainClass": "list_sort_reverse",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "list_strings_example",
+      "mainClass": "list_strings_example",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "list_of_list",
+      "mainClass": "list_of_list",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "listBuffer_basic",
+      "mainClass": "listBuffer_basic",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "listBuffer_build_with_loop",
+      "mainClass": "listBuffer_build_with_loop",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "list_listBuffer_convert",
+      "mainClass": "list_listBuffer_convert",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "list_practical_name_length",
+      "mainClass": "list_practical_name_length",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "array_create",
+      "mainClass": "array_create",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "array_access_update",
+      "mainClass": "array_access_update",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "array_loop_index",
+      "mainClass": "array_loop_index",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "array_loop_foreach",
+      "mainClass": "array_loop_foreach",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "array_common_ops",
+      "mainClass": "array_common_ops",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "array_map_filter",
+      "mainClass": "array_map_filter",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "array_sort_reverse",
+      "mainClass": "array_sort_reverse",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "arrayBuffer_basic",
+      "mainClass": "arrayBuffer_basic",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "arrayBuffer_build_loop",
+      "mainClass": "arrayBuffer_build_loop",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "array_practical_evens",
+      "mainClass": "array_practical_evens",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "array_practical_gt50",
+      "mainClass": "array_practical_gt50",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "array_practical_names",
+      "mainClass": "array_practical_names",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
     }
   ]
 }
