@@ -770,6 +770,316 @@
       "args": [],
       "jvmOptions": [],
       "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "SetTutorial",
+      "mainClass": "SetTutorial",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "SetCreateDemo",
+      "mainClass": "SetCreateDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "SetAddRemoveDemo",
+      "mainClass": "SetAddRemoveDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "SetSearchDemo",
+      "mainClass": "SetSearchDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "SetLoopDemo",
+      "mainClass": "SetLoopDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "SetSortDemo",
+      "mainClass": "SetSortDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "SetMutableVsImmutableDemo",
+      "mainClass": "SetMutableVsImmutableDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "SetConversionDemo",
+      "mainClass": "SetConversionDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "SetPracticalUniqueDemo",
+      "mainClass": "SetPracticalUniqueDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "SetPracticalSubjectDemo",
+      "mainClass": "SetPracticalSubjectDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "SetMixedTypesDemo",
+      "mainClass": "SetMixedTypesDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "MapCreateBasicDemo",
+      "mainClass": "MapCreateBasicDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "MapAccessDemo",
+      "mainClass": "MapAccessDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "MapKeyValueChecksDemo",
+      "mainClass": "MapKeyValueChecksDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "MapLoopDemo",
+      "mainClass": "MapLoopDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "MapAddRemoveDemo",
+      "mainClass": "MapAddRemoveDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "MapUpdateImmutableDemo",
+      "mainClass": "MapUpdateImmutableDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "MapTransformDemo",
+      "mainClass": "MapTransformDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "MapMutableBasicDemo",
+      "mainClass": "MapMutableBasicDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "MapConversionDemo",
+      "mainClass": "MapConversionDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "MapPracticalMarksDemo",
+      "mainClass": "MapPracticalMarksDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "MapPracticalWordFrequencyDemo",
+      "mainClass": "MapPracticalWordFrequencyDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "MapPracticalBillDemo",
+      "mainClass": "MapPracticalBillDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "MapLoopFullDemo",
+      "mainClass": "MapLoopFullDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "ClassBasicDemo",
+      "mainClass": "ClassBasicDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "ClassValVarDemo",
+      "mainClass": "ClassValVarDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "ClassMethodsDemo",
+      "mainClass": "ClassMethodsDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "ClassPrimaryConstructorDemo",
+      "mainClass": "ClassPrimaryConstructorDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "ClassConstructorBodyDemo",
+      "mainClass": "ClassConstructorBodyDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "ClassAuxConstructorDemo",
+      "mainClass": "ClassAuxConstructorDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "ClassMethodOverloadingDemo",
+      "mainClass": "ClassMethodOverloadingDemo",
+      "buildTarget": "file:/E:/Scala_Training/code/.scala-build/?id=code_055fd090c9",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
     }
   ]
 }
