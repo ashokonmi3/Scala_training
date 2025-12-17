@@ -4537,3 +4537,15 @@ INFO: Unsupported notification method: $/setTrace
 2025.12.16 10:01:41 INFO  Shut down connection with build server.
 2025.12.16 10:01:41 INFO  BSP server: Dec 16, 2025 10:01:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
 2025.12.16 10:01:43 INFO  Exiting server
+2025.12.17 21:10:24 INFO  Started: Metals version 1.6.4 in folders 'E:\Scala_Training\code' for client Visual Studio Code 1.106.3.
+2025.12.17 21:10:26 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.12.17 21:10:26 INFO  no build target found for E:\Scala_Training\code\11_class.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.17 21:10:33 INFO  no build target found for E:\Scala_Training\code\11_class.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.12.17 21:10:33 INFO  Attempting to connect to the build server...
+2025.12.17 21:10:33 INFO  Running BSP server List(C:\Users\Lenovo\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, E:\Scala_Training\code\.scala-build\ide-options-v2.json, --json-launcher-options, E:\Scala_Training\code\.scala-build\ide-launcher-options.json, --envs-file, E:\Scala_Training\code\.scala-build\ide-envs.json, E:\Scala_Training\code)
+2025.12.17 21:10:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at E:\Scala_Training\code\.metals\bsp.trace.json or C:\Users\Lenovo\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.12.17 21:10:38 INFO  time: Connected to build server in 4.12s
+2025.12.17 21:10:38 INFO  Connected to Build server: scala-cli v1.10.0
+2025.12.17 21:10:38 INFO  time: Imported build in 0.28s
+2025.12.17 21:10:49 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.12.17 21:10:49 INFO  time: indexed workspace in 11s
